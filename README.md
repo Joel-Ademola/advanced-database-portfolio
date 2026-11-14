@@ -1,5 +1,5 @@
 # Joel Mega Store - Advanced Database Architecture Portfolio
-
+Github: https://github.com/Joel-Ademola/advanced-database-portfolio
 ## Project Overview
 This repository contains a comprehensive, five-part advanced database portfolio designed for **Joel Mega Store**, a B2C e-commerce platform. The project demonstrates a complete database lifecycle, transitioning from a normalized relational architecture to a highly available, distributed NoSQL cloud deployment.
 
